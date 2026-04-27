@@ -1,0 +1,34 @@
+{
+  "name": "optimistic",
+  "version": "1.1.1",
+  "description": "optimistic is a clean blog that powers writers, authors, bloggers, fashion bloggers.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h1dd3nsn1p3r/sniper-front-end.git"
+  },
+  "keywords": [
+    "optimistic"
+  ],
+  "author": "Sparkle Themes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h1dd3nsn1p3r/sniper-front-end/issues"
+  },
+  "homepage": "https://github.com/h1dd3nsn1p3r/sniper-front-end#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cache": "^1.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemap": "^1.0.1",
+    "gulp-sourcemaps": "^2.6.3",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,56 @@
+/*
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Framework @ Sniper Front-End 3 - https://github.com/h1dd3nsn1p3r/sniper-front-end
+
+# Package @ optimistic 
+
+# Author @ Offshorethemes
+
+# Author url @ https://offshorethemes.com/
+
+# License GPL
+
+# Since 2017 December 
+
+# Version 1.1.2 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+**/
+
+
+
+=========================================================================================================================================
+#
+#  C H A N G E      L O G S
+#
+==========================================================================================================================================
+
+# Version 1.1.3
+
+	- Removed animation from demo landing page
+	
+	
+	
+# Version 1.1.2
+
+	- Removed scroll Animations
+
+	- Added video in single page layout two
+
+	- Added signature image at Author widget on top right sidebar 
+
+	- Fixed background video js console error
+
+	- Item Description Updated
+
+
+# Version 1.1.1
+
+	- Initial Release 
+
+
+
+
+
